@@ -1,5 +1,6 @@
 # Это репозиторий с учебными скриптами для курса DataScience
 
+
 Перейдите по ссылкам, чтобы найти код к урокам модуля:
 - [Введение в ML](https://github.com/Eduson-DataScience/DataScience/tree/main/ML_Introduction)
 - [Работа с данными](https://github.com/Eduson-DataScience/DataScience/tree/main/DataCollection)
