@@ -13,9 +13,9 @@
 - [Feature Engineering](https://github.com/Eduson-DataScience/DataScience/tree/main/Feature%20Engineering)
 - [Кластеризация](https://github.com/Eduson-DataScience/DataScience/tree/main/%D0%A1lustering)
 
-
-
 Как скопировать учебные материалы:
 1. Нажмите на кноку <code>Code</code>. Она находится в правом верхнем углу.
 2. Выберите в выпадающем меню опцию <code>Download ZIP</code>.
 3. Похвалите себя и отправляйтесь разбираться в коде эксперта.
+
+## Файл README.md модифицирован согласно тестовому заданию
